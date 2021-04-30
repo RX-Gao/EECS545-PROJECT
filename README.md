@@ -8,7 +8,7 @@ This is codes and data of Umich EECS545 group project
  <br />beta.mat: computed beta
  <br />gamma.mat: computed gamma
 
- <br />
+
  <br />Code Description:
  <br />AGRU.py: infection prediction using attention GRU with and without SIR
  <br />HMM.py: infection prediction using HMM with and without SIR
