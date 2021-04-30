@@ -1,5 +1,5 @@
 # EECS545-PROJECT
-This is codes and data of Umich EECS545 group project
+There are codes and data of Umich EECS545 group project
 
  <br />Data Description:
  <br />data.csv: positive and death
